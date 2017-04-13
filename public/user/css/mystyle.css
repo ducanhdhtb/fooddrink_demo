@@ -1,0 +1,24 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.main{
+ margin-top:20px;
+ color:red;
+}
+.child
+{
+	border:0px;
+}
+.menuh3{
+	background:pink;
+	text-align:center;
+	margin-top:62px;
+}
+.category{
+	width:55%;
+}
+.table>tbody>tr>th
+{
+	border-bottom:0px solid #CCC;
+}
